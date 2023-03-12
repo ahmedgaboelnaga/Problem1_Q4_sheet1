@@ -4,6 +4,8 @@ using namespace std;
 
 int main()
 {
+	//4.Accepts two numbers and computes their sum, difference, product, Quotient and Remainder.
+
 	double n1, n2, sum, different, product, quotent, reaminder; 
 	cout << "Enter the first number: ";
 	cin >> n1;
