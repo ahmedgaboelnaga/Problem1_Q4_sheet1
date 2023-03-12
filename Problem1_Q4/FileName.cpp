@@ -4,7 +4,7 @@ using namespace std;
 
 int main()
 {
-	double n1, n2, sum, different, product, quotent, reaminder;
+	double n1, n2, sum, different, product, quotent, reaminder; 
 	cout << "Enter the first number: ";
 	cin >> n1;
 	
